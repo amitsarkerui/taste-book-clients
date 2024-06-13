@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  font-family: "Berkshire Swash", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}

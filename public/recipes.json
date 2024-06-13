@@ -1,0 +1,985 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "description": "A classic Italian pasta dish with creamy egg sauce and pancetta.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g pecorino cheese",
+      "50g parmesan",
+      "Freshly ground black pepper",
+      "Salt"
+    ],
+    "steps": [
+      "Boil the spaghetti.",
+      "Fry the pancetta.",
+      "Mix eggs and cheese.",
+      "Combine spaghetti, pancetta, and egg mixture."
+    ],
+    "preparationTime": "10 minutes",
+    "cookingTime": "20 minutes",
+    "category": "Main Course",
+    "tags": ["Pasta", "Italian", "Quick"],
+    "rating": 4.7,
+    "author": {
+      "id": 101,
+      "name": "John Doe",
+      "profilePicture": "https://i.ibb.co/NjXczPP/Amit-portfolio-squere.jpg"
+    },
+    "comments": [
+      {
+        "userId": 201,
+        "comment": "Delicious and easy to make!",
+        "date": "2024-05-12T12:34:56Z"
+      }
+    ],
+    "image": "https://i.ibb.co/jfx7ZWR/r1.png"
+  },
+  {
+    "id": 2,
+    "title": "Classic pork Stew",
+    "description": "A hearty and comforting pork stew with potatoes and carrots.",
+    "ingredients": [
+      "1 lb pork chuck",
+      "2 tbsp flour",
+      "2 cups pork broth",
+      "1 cup red wine",
+      "2 carrots",
+      "2 potatoes",
+      "1 onion",
+      "2 cloves garlic",
+      "Salt",
+      "Pepper",
+      "Thyme"
+    ],
+    "steps": [
+      "Brown the pork.",
+      "Add vegetables.",
+      "Pour in broth and wine.",
+      "Simmer until tender."
+    ],
+    "preparationTime": "20 minutes",
+    "cookingTime": "2 hours",
+    "category": "Main Course",
+    "tags": ["Stew", "Comfort Food"],
+    "rating": 4.8,
+    "author": {
+      "id": 102,
+      "name": "Jane Smith",
+      "profilePicture": "https://i.ibb.co/g47J5z5/Amit-portfolio-image.png"
+    },
+    "comments": [
+      {
+        "userId": 202,
+        "comment": "Perfect for a cold day!",
+        "date": "2024-05-13T15:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/7vxpktb/r4.png"
+  },
+  {
+    "id": 3,
+    "title": "Vegan Tacos",
+    "description": "Delicious and healthy vegan tacos with black beans and avocado.",
+    "ingredients": [
+      "8 small tortillas",
+      "1 can black beans",
+      "1 avocado",
+      "1 tomato",
+      "1/4 cup red onion",
+      "1 lime",
+      "Cilantro",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Warm the tortillas.",
+      "Prepare the toppings.",
+      "Assemble the tacos.",
+      "Serve with lime wedges."
+    ],
+    "preparationTime": "15 minutes",
+    "cookingTime": "5 minutes",
+    "category": "Main Course",
+    "tags": ["Vegan", "Healthy", "Quick"],
+    "rating": 4.9,
+    "author": {
+      "id": 103,
+      "name": "Emily Davis",
+      "profilePicture": "https://i.ibb.co/DWcXzPv/Amit-sarker-300.jpg"
+    },
+    "comments": [
+      {
+        "userId": 203,
+        "comment": "So fresh and tasty!",
+        "date": "2024-05-14T10:30:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/mNk4RmY/r3.png"
+  },
+  {
+    "id": 4,
+    "title": "Chocolate Chip Cookies",
+    "description": "Crispy on the outside and chewy on the inside, these cookies are a treat.",
+    "ingredients": [
+      "1 cup butter",
+      "1 cup white sugar",
+      "1 cup brown sugar",
+      "2 eggs",
+      "1 tsp vanilla extract",
+      "3 cups flour",
+      "1 tsp baking soda",
+      "2 cups chocolate chips"
+    ],
+    "steps": [
+      "Preheat the oven.",
+      "Mix wet ingredients.",
+      "Add dry ingredients.",
+      "Fold in chocolate chips.",
+      "Bake until golden."
+    ],
+    "preparationTime": "15 minutes",
+    "cookingTime": "10 minutes",
+    "category": "Dessert",
+    "tags": ["Baking", "Cookies"],
+    "rating": 4.8,
+    "author": {
+      "id": 104,
+      "name": "Michael Brown",
+      "profilePicture": "https://i.ibb.co/NjXczPP/Amit-portfolio-squere.jpg"
+    },
+    "comments": [
+      {
+        "userId": 204,
+        "comment": "Best cookies ever!",
+        "date": "2024-05-15T12:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/wrcRPR3/r2.png"
+  },
+  {
+    "id": 5,
+    "title": "Greek Salad",
+    "description": "A refreshing salad with cucumbers, tomatoes, feta cheese, and olives.",
+    "ingredients": [
+      "1 cucumber",
+      "2 tomatoes",
+      "1/2 red onion",
+      "1/4 cup olives",
+      "1/4 cup feta cheese",
+      "2 tbsp olive oil",
+      "1 tbsp red wine vinegar",
+      "Salt",
+      "Pepper",
+      "Oregano"
+    ],
+    "steps": [
+      "Chop the vegetables.",
+      "Mix the dressing.",
+      "Combine everything.",
+      "Serve immediately."
+    ],
+    "preparationTime": "10 minutes",
+    "cookingTime": "0 minutes",
+    "category": "Salad",
+    "tags": ["Healthy", "Quick", "Vegetarian"],
+    "rating": 4.6,
+    "author": {
+      "id": 105,
+      "name": "Anna Johnson",
+      "profilePicture": "https://i.ibb.co/g47J5z5/Amit-portfolio-image.png"
+    },
+    "comments": [
+      {
+        "userId": 205,
+        "comment": "So fresh and delicious!",
+        "date": "2024-05-16T11:15:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/7vxpktb/r4.png"
+  },
+  {
+    "id": 6,
+    "title": "Chicken Alfredo",
+    "description": "A creamy pasta dish with tender chicken and a rich Alfredo sauce.",
+    "ingredients": [
+      "200g fettuccine",
+      "1 cup heavy cream",
+      "1/2 cup butter",
+      "1 cup grated Parmesan cheese",
+      "2 chicken breasts",
+      "Salt",
+      "Pepper",
+      "Garlic powder"
+    ],
+    "steps": [
+      "Cook the pasta.",
+      "Prepare the Alfredo sauce.",
+      "Cook the chicken.",
+      "Combine pasta, sauce, and chicken.",
+      "Serve hot."
+    ],
+    "preparationTime": "15 minutes",
+    "cookingTime": "20 minutes",
+    "category": "Main Course",
+    "tags": ["Pasta", "Comfort Food"],
+    "rating": 4.7,
+    "author": {
+      "id": 106,
+      "name": "Sarah Lee",
+      "profilePicture": "https://i.ibb.co/DWcXzPv/Amit-sarker-300.jpg"
+    },
+    "comments": [
+      {
+        "userId": 206,
+        "comment": "Rich and creamy!",
+        "date": "2024-05-17T14:20:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/jfx7ZWR/r1.png"
+  },
+  {
+    "id": 7,
+    "title": "Avocado Toast",
+    "description": "A simple and delicious breakfast option with mashed avocado and seasonings.",
+    "ingredients": [
+      "2 slices bread",
+      "1 avocado",
+      "1/2 lemon",
+      "Salt",
+      "Pepper",
+      "Red pepper flakes"
+    ],
+    "steps": [
+      "Toast the bread.",
+      "Mash the avocado with lemon juice.",
+      "Spread avocado on toast.",
+      "Season with salt, pepper, and red pepper flakes.",
+      "Serve immediately."
+    ],
+    "preparationTime": "5 minutes",
+    "cookingTime": "2 minutes",
+    "category": "Breakfast",
+    "tags": ["Healthy", "Quick", "Vegan"],
+    "rating": 4.5,
+    "author": {
+      "id": 107,
+      "name": "Lisa Parker",
+      "profilePicture": "https://i.ibb.co/NjXczPP/Amit-portfolio-squere.jpg"
+    },
+    "comments": [
+      {
+        "userId": 207,
+        "comment": "Quick and easy breakfast!",
+        "date": "2024-05-18T08:45:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/mNk4RmY/r3.png"
+  },
+  {
+    "id": 8,
+    "title": "Caprese Salad",
+    "description": "A classic Italian salad with tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "2 large tomatoes",
+      "1 ball fresh mozzarella",
+      "Fresh basil leaves",
+      "2 tbsp olive oil",
+      "Balsamic vinegar",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Slice the tomatoes and mozzarella.",
+      "Arrange on a plate with basil.",
+      "Drizzle with olive oil and balsamic vinegar.",
+      "Season with salt and pepper.",
+      "Serve immediately."
+    ],
+    "preparationTime": "10 minutes",
+    "cookingTime": "0 minutes",
+    "category": "Salad",
+    "tags": ["Vegetarian", "Quick", "Healthy"],
+    "rating": 4.6,
+    "author": {
+      "id": 108,
+      "name": "David Kim",
+      "profilePicture": "https://i.ibb.co/g47J5z5/Amit-portfolio-image.png"
+    },
+    "comments": [
+      {
+        "userId": 208,
+        "comment": "A summer favorite!",
+        "date": "2024-05-19T12:30:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/wrcRPR3/r2.png"
+  },
+  {
+    "id": 9,
+    "title": "Pancakes",
+    "description": "Fluffy and light pancakes, perfect for a weekend breakfast.",
+    "ingredients": [
+      "1 cup flour",
+      "1 tbsp sugar",
+      "1 tsp baking powder",
+      "1/2 tsp baking soda",
+      "1/2 tsp salt",
+      "1 cup buttermilk",
+      "1 egg",
+      "2 tbsp melted butter"
+    ],
+    "steps": [
+      "Mix dry ingredients.",
+      "Add wet ingredients and mix until combined.",
+      "Cook on a griddle until bubbles form and edges are set.",
+      "Flip and cook until golden brown.",
+      "Serve with syrup."
+    ],
+    "preparationTime": "10 minutes",
+    "cookingTime": "10 minutes",
+    "category": "Breakfast",
+    "tags": ["Baking", "Comfort Food"],
+    "rating": 4.9,
+    "author": {
+      "id": 109,
+      "name": "Mark Wilson",
+      "profilePicture": "https://i.ibb.co/DWcXzPv/Amit-sarker-300.jpg"
+    },
+    "comments": [
+      {
+        "userId": 209,
+        "comment": "Perfectly fluffy!",
+        "date": "2024-05-20T09:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/7vxpktb/r4.png"
+  },
+  {
+    "id": 10,
+    "title": "Caesar Salad",
+    "description": "A classic Caesar salad with homemade dressing and croutons.",
+    "ingredients": [
+      "1 romaine lettuce",
+      "1/4 cup Parmesan cheese",
+      "1/2 cup croutons",
+      "2 tbsp Caesar dressing",
+      "1 clove garlic",
+      "1 tsp Dijon mustard",
+      "1 tbsp lemon juice",
+      "1 egg yolk",
+      "1/4 cup olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Make the dressing.",
+      "Chop the lettuce.",
+      "Toss lettuce with dressing, Parmesan, and croutons.",
+      "Serve immediately."
+    ],
+    "preparationTime": "15 minutes",
+    "cookingTime": "0 minutes",
+    "category": "Salad",
+    "tags": ["Healthy", "Quick"],
+    "rating": 4.7,
+    "author": {
+      "id": 110,
+      "name": "Karen Miller",
+      "profilePicture": "https://i.ibb.co/NjXczPP/Amit-portfolio-squere.jpg"
+    },
+    "comments": [
+      {
+        "userId": 210,
+        "comment": "Love the homemade dressing!",
+        "date": "2024-05-21T13:15:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/jfx7ZWR/r1.png"
+  },
+  {
+    "id": 11,
+    "title": "Garlic Bread",
+    "description": "Crispy and buttery garlic bread, perfect as a side dish.",
+    "ingredients": [
+      "1 loaf French bread",
+      "1/2 cup butter",
+      "4 cloves garlic",
+      "2 tbsp parsley",
+      "Salt"
+    ],
+    "steps": [
+      "Preheat the oven.",
+      "Mix butter with garlic and parsley.",
+      "Spread on bread.",
+      "Bake until golden and crispy.",
+      "Serve hot."
+    ],
+    "preparationTime": "5 minutes",
+    "cookingTime": "10 minutes",
+    "category": "Side Dish",
+    "tags": ["Baking", "Comfort Food"],
+    "rating": 4.8,
+    "author": {
+      "id": 111,
+      "name": "Steven White",
+      "profilePicture": "https://i.ibb.co/g47J5z5/Amit-portfolio-image.png"
+    },
+    "comments": [
+      {
+        "userId": 211,
+        "comment": "Perfectly crispy!",
+        "date": "2024-05-22T19:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/mNk4RmY/r3.png"
+  },
+  {
+    "id": 12,
+    "title": "Tomato Soup",
+    "description": "A warm and comforting tomato soup with a hint of basil.",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 onion",
+      "2 cloves garlic",
+      "4 cups tomatoes",
+      "2 cups vegetable broth",
+      "1/4 cup basil",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Saute onion and garlic.",
+      "Add tomatoes and broth.",
+      "Simmer until tomatoes are soft.",
+      "Blend until smooth.",
+      "Season and serve hot."
+    ],
+    "preparationTime": "10 minutes",
+    "cookingTime": "30 minutes",
+    "category": "Soup",
+    "tags": ["Comfort Food", "Healthy"],
+    "rating": 4.6,
+    "author": {
+      "id": 112,
+      "name": "Nancy Harris",
+      "profilePicture": "https://i.ibb.co/DWcXzPv/Amit-sarker-300.jpg"
+    },
+    "comments": [
+      {
+        "userId": 212,
+        "comment": "Warm and delicious!",
+        "date": "2024-05-23T11:45:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/wrcRPR3/r2.png"
+  },
+  {
+    "id": 13,
+    "title": "Banana Bread",
+    "description": "Moist and flavorful banana bread, perfect for breakfast or a snack.",
+    "ingredients": [
+      "3 ripe bananas",
+      "1/2 cup butter",
+      "1 cup sugar",
+      "2 eggs",
+      "1 tsp vanilla extract",
+      "1 1/2 cups flour",
+      "1 tsp baking soda",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Preheat the oven.",
+      "Mash bananas.",
+      "Mix butter and sugar.",
+      "Add eggs and vanilla.",
+      "Mix dry ingredients and combine with wet.",
+      "Bake until a toothpick comes out clean."
+    ],
+    "preparationTime": "15 minutes",
+    "cookingTime": "60 minutes",
+    "category": "Baking",
+    "tags": ["Baking", "Comfort Food"],
+    "rating": 4.9,
+    "author": {
+      "id": 113,
+      "name": "Rachel Green",
+      "profilePicture": "https://i.ibb.co/NjXczPP/Amit-portfolio-squere.jpg"
+    },
+    "comments": [
+      {
+        "userId": 213,
+        "comment": "So moist and tasty!",
+        "date": "2024-05-24T09:30:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/7vxpktb/r4.png"
+  },
+  {
+    "id": 14,
+    "title": "Grilled Cheese Sandwich",
+    "description": "A classic grilled cheese sandwich with melted cheddar.",
+    "ingredients": [
+      "2 slices bread",
+      "2 slices cheddar cheese",
+      "1 tbsp butter"
+    ],
+    "steps": [
+      "Butter the bread.",
+      "Place cheese between slices.",
+      "Grill until golden brown and cheese is melted.",
+      "Serve hot."
+    ],
+    "preparationTime": "5 minutes",
+    "cookingTime": "5 minutes",
+    "category": "Snack",
+    "tags": ["Comfort Food", "Quick"],
+    "rating": 4.5,
+    "author": {
+      "id": 114,
+      "name": "James Brown",
+      "profilePicture": "https://i.ibb.co/g47J5z5/Amit-portfolio-image.png"
+    },
+    "comments": [
+      {
+        "userId": 214,
+        "comment": "Classic and delicious!",
+        "date": "2024-05-25T12:15:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/jfx7ZWR/r1.png"
+  },
+  {
+    "id": 15,
+    "title": "Margarita Pizza",
+    "description": "A simple and delicious pizza with fresh tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "1 pizza dough",
+      "1 cup tomato sauce",
+      "2 cups mozzarella cheese",
+      "1 large tomato",
+      "Fresh basil leaves",
+      "Salt",
+      "Olive oil"
+    ],
+    "steps": [
+      "Preheat the oven.",
+      "Roll out the dough.",
+      "Spread the sauce.",
+      "Add cheese and toppings.",
+      "Bake until crust is golden and cheese is melted.",
+      "Garnish with basil and serve."
+    ],
+    "preparationTime": "20 minutes",
+    "cookingTime": "15 minutes",
+    "category": "Main Course",
+    "tags": ["Pizza", "Comfort Food"],
+    "rating": 4.8,
+    "author": {
+      "id": 115,
+      "name": "Olivia White",
+      "profilePicture": "https://i.ibb.co/DWcXzPv/Amit-sarker-300.jpg"
+    },
+    "comments": [
+      {
+        "userId": 215,
+        "comment": "Perfect for a quick meal!",
+        "date": "2024-05-26T18:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/mNk4RmY/r3.png"
+  },
+  {
+    "id": 16,
+    "title": "Butter Chicken",
+    "description": "A rich and creamy butter chicken with a blend of spices.",
+    "ingredients": [
+      "500g chicken",
+      "2 tbsp butter",
+      "1 cup cream",
+      "2 tbsp tomato paste",
+      "1 onion",
+      "4 cloves garlic",
+      "1 tsp garam masala",
+      "1 tsp chili powder",
+      "Salt"
+    ],
+    "steps": [
+      "Cook chicken until browned.",
+      "Saute onions and garlic.",
+      "Add spices and tomato paste.",
+      "Stir in cream and simmer.",
+      "Add chicken and cook until done.",
+      "Serve with naan or rice."
+    ],
+    "preparationTime": "20 minutes",
+    "cookingTime": "30 minutes",
+    "category": "Cuisine",
+    "tags": ["Indian", "Spicy", "Rich"],
+    "rating": 4.8,
+    "author": {
+      "id": 116,
+      "name": "Arjun Singh",
+      "profilePicture": "https://i.ibb.co/NjXczPP/Amit-portfolio-squere.jpg"
+    },
+    "comments": [
+      {
+        "userId": 216,
+        "comment": "Authentic and delicious!",
+        "date": "2024-05-27T13:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/7vxpktb/r4.png"
+  },
+  {
+    "id": 17,
+    "title": "Greek Yogurt",
+    "description": "Thick and creamy Greek yogurt, perfect for breakfast or a snack.",
+    "ingredients": ["4 cups whole milk", "1/2 cup Greek yogurt"],
+    "steps": [
+      "Heat milk until simmering.",
+      "Cool and mix with yogurt.",
+      "Let sit in a warm place overnight.",
+      "Refrigerate before serving."
+    ],
+    "preparationTime": "15 minutes",
+    "cookingTime": "8 hours",
+    "category": "Dairy",
+    "tags": ["Healthy", "Breakfast"],
+    "rating": 4.7,
+    "author": {
+      "id": 117,
+      "name": "Sophia Harris",
+      "profilePicture": "https://i.ibb.co/DWcXzPv/Amit-sarker-300.jpg"
+    },
+    "comments": [
+      {
+        "userId": 217,
+        "comment": "So creamy and delicious!",
+        "date": "2024-05-28T09:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/wrcRPR3/r2.png"
+  },
+  {
+    "id": 18,
+    "title": "Vegan Tacos",
+    "description": "Delicious and healthy vegan tacos with a variety of toppings.",
+    "ingredients": [
+      "1 can black beans",
+      "1 avocado",
+      "1 tomato",
+      "1/2 cup corn",
+      "1/4 cup cilantro",
+      "8 small tortillas",
+      "Lime",
+      "Salt"
+    ],
+    "steps": [
+      "Heat black beans.",
+      "Chop avocado, tomato, and cilantro.",
+      "Warm tortillas.",
+      "Assemble tacos with toppings.",
+      "Serve with lime wedges."
+    ],
+    "preparationTime": "10 minutes",
+    "cookingTime": "10 minutes",
+    "category": "Vegan",
+    "tags": ["Healthy", "Quick"],
+    "rating": 4.9,
+    "author": {
+      "id": 118,
+      "name": "Liam Martinez",
+      "profilePicture": "https://i.ibb.co/g47J5z5/Amit-portfolio-image.png"
+    },
+    "comments": [
+      {
+        "userId": 218,
+        "comment": "Fresh and tasty!",
+        "date": "2024-05-29T12:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/jfx7ZWR/r1.png"
+  },
+  {
+    "id": 19,
+    "title": "Tiramisu",
+    "description": "A classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+    "ingredients": [
+      "6 egg yolks",
+      "3/4 cup sugar",
+      "1 cup mascarpone cheese",
+      "1 1/2 cups heavy cream",
+      "2 cups brewed coffee",
+      "1 package ladyfingers",
+      "Cocoa powder"
+    ],
+    "steps": [
+      "Whisk egg yolks and sugar until thick.",
+      "Fold in mascarpone.",
+      "Whip cream and fold into mixture.",
+      "Dip ladyfingers in coffee and layer.",
+      "Top with mascarpone mixture.",
+      "Repeat layers and dust with cocoa.",
+      "Chill before serving."
+    ],
+    "preparationTime": "30 minutes",
+    "cookingTime": "0 minutes",
+    "category": "Cuisine",
+    "tags": ["Dessert", "Italian"],
+    "rating": 4.8,
+    "author": {
+      "id": 119,
+      "name": "Isabella Rossi",
+      "profilePicture": "https://i.ibb.co/NjXczPP/Amit-portfolio-squere.jpg"
+    },
+    "comments": [
+      {
+        "userId": 219,
+        "comment": "Perfectly decadent!",
+        "date": "2024-05-30T18:30:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/7vxpktb/r4.png"
+  },
+  {
+    "id": 20,
+    "title": "Paneer Butter Masala",
+    "description": "A creamy and rich paneer butter masala with aromatic spices.",
+    "ingredients": [
+      "200g paneer",
+      "2 tbsp butter",
+      "1 cup cream",
+      "1 onion",
+      "2 tomatoes",
+      "1 tsp garam masala",
+      "1 tsp chili powder",
+      "Salt"
+    ],
+    "steps": [
+      "Fry paneer cubes until golden.",
+      "Saute onions and tomatoes.",
+      "Blend into a smooth paste.",
+      "Add spices and cream.",
+      "Stir in paneer and simmer.",
+      "Serve with naan or rice."
+    ],
+    "preparationTime": "20 minutes",
+    "cookingTime": "25 minutes",
+    "category": "Dairy",
+    "tags": ["Vegetarian", "Indian"],
+    "rating": 4.9,
+    "author": {
+      "id": 120,
+      "name": "Priya Patel",
+      "profilePicture": "https://i.ibb.co/DWcXzPv/Amit-sarker-300.jpg"
+    },
+    "comments": [
+      {
+        "userId": 220,
+        "comment": "Creamy and delicious!",
+        "date": "2024-05-31T13:45:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/wrcRPR3/r2.png"
+  },
+  {
+    "id": 21,
+    "title": "Vegan Brownies",
+    "description": "Rich and fudgy vegan brownies made with simple ingredients.",
+    "ingredients": [
+      "1 cup flour",
+      "1 cup sugar",
+      "1/2 cup cocoa powder",
+      "1/2 cup vegetable oil",
+      "1/2 cup water",
+      "1 tsp vanilla extract",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Preheat oven.",
+      "Mix dry ingredients.",
+      "Add wet ingredients and mix until smooth.",
+      "Pour into baking dish.",
+      "Bake until a toothpick comes out clean.",
+      "Cool before serving."
+    ],
+    "preparationTime": "10 minutes",
+    "cookingTime": "25 minutes",
+    "category": "Vegan",
+    "tags": ["Baking", "Dessert"],
+    "rating": 4.7,
+    "author": {
+      "id": 121,
+      "name": "Emily Johnson",
+      "profilePicture": "https://i.ibb.co/g47J5z5/Amit-portfolio-image.png"
+    },
+    "comments": [
+      {
+        "userId": 221,
+        "comment": "Fudgy and delicious!",
+        "date": "2024-06-01T16:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/jfx7ZWR/r1.png"
+  },
+  {
+    "id": 22,
+    "title": "Lasagna",
+    "description": "A classic Italian lasagna with layers of pasta, meat sauce, and cheese.",
+    "ingredients": [
+      "12 lasagna noodles",
+      "1 lb ground beef",
+      "2 cups marinara sauce",
+      "1 cup ricotta cheese",
+      "1 cup mozzarella cheese",
+      "1/2 cup Parmesan cheese",
+      "1 egg",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Cook noodles.",
+      "Brown beef and add marinara sauce.",
+      "Mix ricotta, egg, and seasonings.",
+      "Layer noodles, meat sauce, and cheeses.",
+      "Repeat layers and bake until bubbly.",
+      "Let rest before serving."
+    ],
+    "preparationTime": "30 minutes",
+    "cookingTime": "45 minutes",
+    "category": "Cuisine",
+    "tags": ["Italian", "Comfort Food"],
+    "rating": 4.8,
+    "author": {
+      "id": 122,
+      "name": "Maria Bianchi",
+      "profilePicture": "https://i.ibb.co/NjXczPP/Amit-portfolio-squere.jpg"
+    },
+    "comments": [
+      {
+        "userId": 222,
+        "comment": "So comforting and delicious!",
+        "date": "2024-06-02T18:30:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/mNk4RmY/r3.png"
+  },
+  {
+    "id": 23,
+    "title": "Greek Salad",
+    "description": "A fresh and healthy Greek salad with a tangy dressing.",
+    "ingredients": [
+      "2 cups cherry tomatoes",
+      "1 cucumber",
+      "1/2 red onion",
+      "1/4 cup Kalamata olives",
+      "1/4 cup feta cheese",
+      "2 tbsp olive oil",
+      "1 tbsp red wine vinegar",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Chop vegetables.",
+      "Combine in a bowl.",
+      "Mix olive oil, vinegar, salt, and pepper.",
+      "Pour dressing over salad and toss.",
+      "Top with feta cheese.",
+      "Serve chilled."
+    ],
+    "preparationTime": "15 minutes",
+    "cookingTime": "0 minutes",
+    "category": "Cuisine",
+    "tags": ["Salad", "Healthy"],
+    "rating": 4.6,
+    "author": {
+      "id": 123,
+      "name": "Nikos Papadopoulos",
+      "profilePicture": "https://i.ibb.co/g47J5z5/Amit-portfolio-image.png"
+    },
+    "comments": [
+      {
+        "userId": 223,
+        "comment": "Fresh and tangy!",
+        "date": "2024-06-03T12:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/wrcRPR3/r2.png"
+  },
+  {
+    "id": 24,
+    "title": "Vegan Mac and Cheese",
+    "description": "A creamy and delicious vegan mac and cheese with a cheesy sauce.",
+    "ingredients": [
+      "2 cups elbow macaroni",
+      "1 cup cashews",
+      "1/2 cup nutritional yeast",
+      "1/4 cup unsweetened almond milk",
+      "1 tsp garlic powder",
+      "1 tsp onion powder",
+      "Salt",
+      "Pepper"
+    ],
+    "steps": [
+      "Cook macaroni.",
+      "Blend cashews, nutritional yeast, almond milk, and seasonings.",
+      "Pour sauce over macaroni and mix.",
+      "Serve hot."
+    ],
+    "preparationTime": "10 minutes",
+    "cookingTime": "10 minutes",
+    "category": "Vegan",
+    "tags": ["Comfort Food", "Healthy"],
+    "rating": 4.8,
+    "author": {
+      "id": 124,
+      "name": "Ava Smith",
+      "profilePicture": "https://i.ibb.co/DWcXzPv/Amit-sarker-300.jpg"
+    },
+    "comments": [
+      {
+        "userId": 224,
+        "comment": "So creamy and satisfying!",
+        "date": "2024-06-04T14:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/mNk4RmY/r3.png"
+  },
+  {
+    "id": 25,
+    "title": "Blueberry Smoothie",
+    "description": "A refreshing and healthy blueberry smoothie.",
+    "ingredients": [
+      "1 cup blueberries",
+      "1 banana",
+      "1/2 cup Greek yogurt",
+      "1/2 cup almond milk",
+      "1 tbsp honey"
+    ],
+    "steps": [
+      "Blend all ingredients until smooth.",
+      "Pour into a glass and serve."
+    ],
+    "preparationTime": "5 minutes",
+    "cookingTime": "0 minutes",
+    "category": "Dairy",
+    "tags": ["Healthy", "Breakfast"],
+    "rating": 4.7,
+    "author": {
+      "id": 125,
+      "name": "Ella Brown",
+      "profilePicture": "https://i.ibb.co/g47J5z5/Amit-portfolio-image.png"
+    },
+    "comments": [
+      {
+        "userId": 225,
+        "comment": "Perfect for a quick breakfast!",
+        "date": "2024-06-05T08:00:00Z"
+      }
+    ],
+    "image": "https://i.ibb.co/jfx7ZWR/r1.png"
+  }
+]
